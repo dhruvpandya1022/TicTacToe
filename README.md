@@ -1,4 +1,4 @@
-# TicTacToe
-A Simple Tic Tac Toe Using JavaScript, HTML &amp; CSS.<br>
-The game will run on browser.<br>
-Just run the "index.html" file to play the game.
+Tic-Tac-Toe:
+This is a Tic Tac Toe GUI using Tkinter.
+Frames, Message box, Buttons and lables are used to create this app.
+Just hit the run option and you will get the game.
